@@ -1,0 +1,5 @@
+1. Document title needed to use backspace one by one and Ctrl + A or Ctrl + backspace was not working
+   Result: Fixed it. 
+   
+2. File manager theme look like 1990's and it was hard to navigate so I change it and set the file manager to Nautilus file manager
+3. remove the UI in the recent note in the below
